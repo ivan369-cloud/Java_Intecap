@@ -22,7 +22,7 @@ public class Ejercicio4 {
         celcius = sc.nextDouble();
         
         farenheit = (celcius *9/5) + 32;
-        System.out.printf(celcius + " Grados Celcius son: " + farenheit + " Grados Farenheit");
+        System.out.println(celcius + " Grados Celcius son: " + farenheit + " Grados Farenheit");
     }
     
 }
