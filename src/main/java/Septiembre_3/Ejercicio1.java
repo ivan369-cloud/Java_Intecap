@@ -18,7 +18,7 @@ public class Ejercicio1 {
         int num1;
         int num2;
         
-        System.out.println("Ingrese primero numero");
+        System.out.println("Ingrese primer numero");
         num1 = sp.nextInt();
         System.out.println("Ingrese segundo numero");
         num2 = sp.nextInt();
